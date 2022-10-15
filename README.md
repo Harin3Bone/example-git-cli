@@ -1,8 +1,7 @@
-# Git Repository CLI
+# Git Repository CLI 🧪🧪🧪
 
 1. A
 2. B
-3. C
 
 ## Table
 
